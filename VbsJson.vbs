@@ -1,3 +1,5 @@
+' https://github.com/eklam/VbsJson
+
 Class VbsJson
     'Author: Demon
     'Date: 2012/5/3
